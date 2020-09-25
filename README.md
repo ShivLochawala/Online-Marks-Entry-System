@@ -1,5 +1,5 @@
 # Online-Marks-Entry-System
-Online Marks Entry System project made using HTML, CSS, JavaScript, JAVA's JSP. 
+Online Marks Entry System project made using HTML, CSS, JavaScript, JSP(JAVA). 
 In this project mainly 3 module are there. 
 1st faculty 2nd Co-ordinator and 3rd HOD. 
 Here faculty can add student, add marks, show marks, show student details and after entering marks that marks are store and go for approval to Co-Ordinator. 
